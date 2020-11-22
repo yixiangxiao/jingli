@@ -1,0 +1,169 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+    height: 325px;
+    background-image: url("../images4/background.jpg");
+}
+.header-con{
+    width: 980px;
+    height: 325px;
+    border: 1px solid red;
+    margin: 0px auto;
+    background-image: url("../images4/banner.png");
+    position: relative;
+}
+.logo{
+    width: 332px;
+    height: 109px;
+    background-image: url("../images4/logo.png");
+    position: absolute;
+    top: 20px;
+    right: 0px;
+    font-size: 15px;
+}
+.con{
+    width: 995px;
+    height:1734px ;
+    border: 1px solid yellow;
+    margin: 30px auto;
+}
+.left{
+    width: 660px;
+    height: 1734px;
+    border: 1px solid green;
+    float: left;
+}
+.right{
+    width: 320px;
+    height: 1368px;
+    border: 1px solid green;
+    float: right;
+}
+.zhuti{
+    border: 1px solid pink;
+    padding: 3px;
+}
+.zhuti h2{
+    background-image: url("../images4/background.jpg");
+    color: #fff;
+    padding: 5px 10px;
+}
+.zhuti p{
+    margin: 15px 20px;
+}
+.speakers{
+    width: 624px;
+    height: 1243px;
+    padding: 15px;
+    border: 1px solid peru;
+    margin-top: 20px;
+    border-bottom: 5px solid rgb(247,125,25);
+    border-right: 5px solid rgb(247,125,25);
+}
+.sp1{
+    border: 1px solid gray;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.imag{
+    width: 116px;
+    height: 137px;
+    background-image: url("../images4/speaker_stuart.jpg");
+    float: left;
+}
+.imag2{
+    width: 116px;
+    height: 137px;
+    background-image: url("../images4/speaker_paul.jpg");
+    float: left;
+}
+.imag3{
+    width: 116px;
+    height: 137px;
+    background-image: url("../images4/speaker_myk.jpg");
+    float: left;
+}
+.imag4{
+    width: 116px;
+    height: 137px;
+    background-image: url("../images4/speaker_jorge.jpg");
+    float: left;
+}
+.deil{
+    width: 405px;
+    float: right;
+}
+.deil h2{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.s-bottom{
+    border-top:1px solid rgb(186,186,186);
+    margin-top: 10px;
+    padding-top: 5px;
+}
+.s-bottom h3{
+margin-bottom: 10px;
+    font-size: 18px;
+}
+.s-bottom p{
+    padding-left: 20px;
+}
+ .links a{
+     padding-left: 25px;
+     color: rgb(51, 51, 51);
+     font-size: 13px;
+     text-decoration: none;
+     vertical-align: middle;
+     line-height: 16px;
+     margin: 5px;
+ }
+.xl { background: url(../images4/weibo.ico) no-repeat ; }
+.sh { background: url(../images4/sohu.ico) no-repeat ; }
+.tx { background: url(../images4/qq.ico) no-repeat ; }
+.db { background: url(../images4/douban.ico) no-repeat ; }
+
+.links{
+    width: 340px;
+     margin: -15px auto 30px;
+    background-color: white;
+}
+.link-two a{
+    float: left;
+    height: 36px;
+    margin: 0 15px 10px 0 ;
+}
+.canjia a{
+    width: 301px;
+    height: 75px;
+    margin: 0pt auto 12px;
+}
+.gaiyao{
+    border: 1px solid rgb(186, 186, 186);
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.gaiyao p{
+    margin: 3px 0pt;
+}
+p.small { font-size: 13px; }
+table thead { font-weight: bold; }
+table tbody { font-size: 13px; }
+table .time { width: 110px;}
+table td, table th { vertical-align: top; padding-bottom: 5px; text-align: left;padding-top: 10px}
+#footer {
+    background: url(../images4/background.jpg) repeat ;
+    height: 75px;
+    margin-top: 20px;
+    color: white;
+    text-align: left; }
+#footer p {
+    float: right;
+    font-size: 14px;
+    margin: 35px 10px 0pt 0pt;
+}
+.container { width: 995px; margin: 0pt auto; text-align: left; }
+

@@ -1,0 +1,32 @@
+.container{
+    width: 100%;
+
+    background-color: #E5E5E5;
+}
+.wrap{
+width: 1196px;
+    margin:0 auto;
+}
+.left{
+width: 305px;
+    height: 785px;
+    background-color: red;
+    float: left;
+}
+.right{
+    width: 891px;
+    height: 785px;
+    background-color: palegoldenrod;
+    float: left;
+
+}
+.right>div{
+    width: 290px;
+    height: 390px;
+    background-color: palevioletred;
+    float: left;
+    margin-left: 7px;
+}
+.right>.one{
+    margin-bottom: 5px;
+}
